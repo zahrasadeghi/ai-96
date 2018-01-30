@@ -1,2 +1,2 @@
-# ai- which people will "like" which blog posts from 96
-this project is designed for predictingacross 90k active blogs on WordPress.com.
+# ai-96
+this project is designed for predicting which people will "like" which blog posts from across 90k active blogs on WordPress.com. 
